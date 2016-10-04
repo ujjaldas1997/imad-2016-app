@@ -1,8 +1,8 @@
 body {
-    background-image: url("background.png");
+    background-image: url("background.jpg");
     font-family: segoe print;
     color: white;
-    background-color: powderblue;
+    /*background-color: powderblue;*/
     margin-top: 75px;
 }
 
