@@ -1,5 +1,7 @@
 body {
     background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
     font-family: segoe print;
     color: white;
     background-color: powderblue;
