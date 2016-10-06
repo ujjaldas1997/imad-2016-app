@@ -11,7 +11,7 @@ body {
 
 .back{
     background-image: url("back1.jpg");
-    color: blue;
+    color: white;
     text-align: center;
     max-width: 800px;
 }
