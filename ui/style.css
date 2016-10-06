@@ -9,6 +9,12 @@ body {
     margin-top: 75px;
 }
 
+.back{
+    background-image: url("back1.jpg");
+    color: blue;
+    text-align: center;
+}
+
 .center {
     text-align: center;
 }
