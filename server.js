@@ -31,6 +31,14 @@ app.get('/ui/ujjal.JPG', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'ujjal.JPG'));
 });
 
+app.get('/ui/back1.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'back1.jpgg'));
+});
+
+app.get('/ui/tree.jpg', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'tree.jpgg'));
+});
+
 app.get('/ui/icon.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'icon.jpg'));
 });
