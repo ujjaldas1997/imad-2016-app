@@ -9,9 +9,9 @@
 }
 
 .back{
+    background-image: url("back1.jpg");
     max-width: 800px;
     margin: 0 auto;
-    background-image: url("back1.jpg");
     color: blue;
     font-family: trebuchet ms;
 }
