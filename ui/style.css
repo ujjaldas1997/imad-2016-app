@@ -29,6 +29,7 @@
     background-image: url("tree.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    opacity: 0.2;
 }
 
 .bold {
