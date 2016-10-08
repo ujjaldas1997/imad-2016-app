@@ -10,8 +10,7 @@
 
 .back{
     background-image: url("back1.jpg");
-    background-position: top;
-    background-size: 100% 100%;
+    background-size: 100% 300%;
     max-width: 800px;
     margin: 0 auto;
     color: blue;
@@ -28,6 +27,8 @@
 
 .footer{
     background-image: url("tree.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .bold {
