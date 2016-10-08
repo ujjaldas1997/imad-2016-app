@@ -32,6 +32,10 @@
     opacity: 0.2;
 }
 
+#opac{
+    opacity: 1;
+}
+
 .bold {
     font-weight: bold;
 }
