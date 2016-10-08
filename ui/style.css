@@ -5,7 +5,6 @@
     background-size: 100% 100%;
     font-family: segoe print;
     color: white;
-    background-color: powderblue;
     margin-top: 75px;
 }
 
@@ -13,6 +12,7 @@
     max-width: 800px;
     margin: 0 auto;
     background-image: url("back1.jpg");
+    background-color: blue;
     color: white;
 }
 
