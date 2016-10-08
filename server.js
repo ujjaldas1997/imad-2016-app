@@ -32,11 +32,11 @@ app.get('/ui/ujjal.JPG', function (req, res) {
 });
 
 app.get('/ui/back1.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'back1.jpgg'));
+  res.sendFile(path.join(__dirname, 'ui', 'back1.jpg'));
 });
 
 app.get('/ui/tree.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'tree.jpgg'));
+  res.sendFile(path.join(__dirname, 'ui', 'tree.jpg'));
 });
 
 app.get('/ui/icon.jpg', function (req, res) {
