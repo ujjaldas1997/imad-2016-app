@@ -42,7 +42,7 @@ submit.onclick = function(){
         
     }
     
-    document.getElementById('name').reset();
+    document.getElementById('name').value = '';
     
 };
     
