@@ -13,7 +13,7 @@
     background-size: 100% 300%;
     max-width: 800px;
     margin: 0 auto;
-    color: blue;
+    color: white;
     font-family: trebuchet ms;
 }
 
@@ -29,6 +29,7 @@
     background-image: url("tree.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    color: blue;
 }
 
 #opac{
